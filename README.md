@@ -6,6 +6,9 @@
   - [osTicket Prerequisites and Installation](https://github.com/kpratt97/osticket-prereqs)
   - [Post-Installation of osTicket](https://github.com/kpratt97/post-install-config)
   - [Creating Tickets: Examples](https://github.com/kpratt97/ticket-lifecycle)
+- <b>oActive Directory </b>
+  - [Active Directory Installation](https://github.com/kpratt97/osticket-prereqs)
+  
 
 <h2>🤳Connect with me:</h2>
 
