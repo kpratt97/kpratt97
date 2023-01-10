@@ -7,7 +7,7 @@
   - [Post-Installation of osTicket](https://github.com/kpratt97/post-install-config)
   - [Creating Tickets: Examples](https://github.com/kpratt97/ticket-lifecycle)
 - <b>Active Directory </b>
-  - [Active Directory Installation](https://github.com/kpratt97/osticket-prereqs)
+  - [Active Directory Deployment](https://github.com/kpratt97/osticket-prereqs)
   
 
 <h2>🤳Connect with me:</h2>
